@@ -1,0 +1,15 @@
+# RStudio settings & workspace files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# SQLite wardrobe database (DO NOT upload)
+wardrobe.sqlite
+
+# Uploaded clothing photos
+www/photos/
+
+# OS-specific junk (optional but recommended)
+.DS_Store
+Thumbs.db
